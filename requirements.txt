@@ -1,0 +1,10 @@
+requirements:
+
+pip install opencv-python==4.7.0.68
+pip install numpy==1.19.3
+
+if not working 
+
+pip uninstall opencv-python-headless -y 
+pip install opencv-python --upgrade
+
